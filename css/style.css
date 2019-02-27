@@ -20,7 +20,7 @@ body{
 }
 /*-- banner --*/
 .banner{
-    background: url(../images/arcticuno_landing_page.png) no-repeat 0px 0px;
+    background: url(../images/arcticuno_landing_page.jpg) no-repeat 0px 0px;
     background-size: cover;
 }
 .banner-dot {
@@ -1007,7 +1007,7 @@ a.pa_italic:focus {
 /*-- //team --*/
 /*-- subscribe --*/
 .wthree-subscribe {
-    background: url(../images/arcticuno_landing_page.png) no-repeat 0px 0px;
+    background: url(../images/arcticuno_landing_page.jpg) no-repeat 0px 0px;
     background-size:cover;
 }
 .wthree-subscribe h3{
@@ -1442,7 +1442,7 @@ p.address {
 		width: 36px;
 	}
 	.banner {
-		background: url(../images/arcticuno_landing_page.png) no-repeat -300px 0px;
+		background: url(../images/arcticuno_landing_page.jpg) no-repeat -300px 0px;
 		background-size: cover;
 	}
 	.services-grid-right-grid {
